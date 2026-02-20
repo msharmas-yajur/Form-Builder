@@ -1,0 +1,5 @@
+{
+  "name": "LForms Architect - AI Medical Form Suite",
+  "description": "A sophisticated medical form builder and previewer inspired by the LHC Forms library, utilizing Gemini AI to generate structured medical questionnaire schemas (LOINC/FHIR) and providing an interactive form architecting environment.",
+  "requestFramePermissions": []
+}
